@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="zero_btn_string">0</string>
+    <string name="one_btn_string">1</string>
+    <string name="two_btn_string">2</string>
+    <string name="three_btn_string">3</string>
+    <string name="four_btn_string">4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="equal_btn_string">=</string>
+    <string name="decimal_btn_string">.</string>
+    <string name="plus_btn_string">+</string>
+    <string name="minus_btn_string">-</string>
+    <string name="six_btn_string">6</string>
+    <string name="five_btn_string">5</string>
+    <string name="multiply_btn_string">×</string>
+    <string name="nine_btn_string">9</string>
+    <string name="eight_btn_string">8</string>
+    <string name="seven_btn_string">7</string>
+    <string name="divide_btn_string">÷</string>
+    <string name="percent_btn_string">%</string>
+    <string name="positive_negative_btn_string">+/-</string>
+    <string name="clear_btn_string">AC</string>
+    <string name="display">0</string>
+    <string name="other_four_btn_string">4</string>
+</resources>
